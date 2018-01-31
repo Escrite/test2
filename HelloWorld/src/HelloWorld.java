@@ -14,6 +14,8 @@ public class HelloWorld implements ActionListener {
         HelloWorld test = new HelloWorld();
         test.doRoboty();
 		System.out.println("Tutaj powinien podswietlić GIT");
+		System.out.println("Test Branch"); 
+		
         
     }
     
