@@ -13,6 +13,7 @@ public class HelloWorld implements ActionListener {
     public static void main(String[] args) {
         HelloWorld test = new HelloWorld();
         test.doRoboty();
+		System.out.println("Tutaj powinien podswietlić GIT");
         
     }
     
